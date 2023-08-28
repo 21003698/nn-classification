@@ -189,19 +189,18 @@ print(le.inverse_transform(x_single_prediction))
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="643" alt="1" src="https://github.com/saieswar1607/nn-classification/assets/93427011/a7150d82-4f6b-4791-b7a8-07e1ea64298e">
+<img width="634" alt="1" src="https://github.com/21003698/nn-classification/assets/93427522/4446f284-c506-4891-b58f-3e0a9918242b">
 
 ### Classification Report
 
-<img width="644" alt="2" src="https://github.com/saieswar1607/nn-classification/assets/93427011/a0f351d8-bd46-4b80-bf35-025610d244b2">
+
 
 ### Confusion Matrix
 
-<img width="589" alt="3" src="https://github.com/saieswar1607/nn-classification/assets/93427011/75f87e56-eb87-4156-ba14-01fd0315d92b">
+<img width="599" alt="3" src="https://github.com/21003698/nn-classification/assets/93427522/11d8ff3d-9e11-4c76-89f3-63b612bab46c">
 
 ### New Sample Data Prediction
 
-<img width="779" alt="4" src="https://github.com/saieswar1607/nn-classification/assets/93427011/8ac1fbea-7ac0-4637-84cb-89b617865ce3">
 
 ## RESULT
 Therefore a Neural network classification model is developed and executed successfully.
