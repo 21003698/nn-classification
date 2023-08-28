@@ -193,6 +193,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ### Classification Report
 
+<img width="646" alt="2" src="https://github.com/21003698/nn-classification/assets/93427522/593a84a9-3d49-494d-9556-56a4ed2138f8">
 
 
 ### Confusion Matrix
@@ -201,6 +202,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ### New Sample Data Prediction
 
+<img width="774" alt="4" src="https://github.com/21003698/nn-classification/assets/93427522/096335d0-3c7b-4aaa-a49f-7af8f0777ac1">
 
 ## RESULT
 Therefore a Neural network classification model is developed and executed successfully.
