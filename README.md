@@ -43,8 +43,8 @@ Test the model by predicting and output
 
 ## PROGRAM
 ```
-Developed by: Sai Eswar Kandukuri
-Register no: 212221240020
+Developed by: Challa Sandeep
+Register no: 212221240011
 ```
 ### Importing the require packages
 ```
